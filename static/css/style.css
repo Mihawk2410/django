@@ -1,0 +1,64 @@
+header {
+    background-color: #2A303D;
+    width: 100%;
+    height: 75px;
+    text-align: center;
+    line-height: 75px;
+}
+
+#menu {
+    width: 19%;
+    height: 75px;
+    background: transparent;
+    border: none;
+    color: white;
+    line-height: normal;
+}
+
+#menu:hover {
+    background-color: lightseagreen;
+}
+
+.menu-principal {
+    position: relative;
+    display: inline-block;
+    width: 19%;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 300px;
+
+}    
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #2A303D;
+    height: 75px;
+}  
+
+#footer {
+    width: 49%;
+    height: 75px;
+    background: transparent;
+    border: none;
+    color: white;
+    line-height: normal;
+} 
+
+#footer:hover {
+    background-color: lightseagreen;
+}
+
+body {
+    height: 100%;
+} 
+
+#main {
+    max-width:1892px;
+    min-height:100%;
+    margin:0 auto;
+    position:relative;
+}
